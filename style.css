@@ -1,0 +1,89 @@
+body{
+    background-color: black;
+}
+
+
+#SideBar {
+    text-align: right;
+    border: 5px solid slategray;
+    margin-left: 75%;
+    position: relative;
+    color: whitesmoke;
+    background: url();
+}
+img {
+    width: 15%;
+    height: 15%;
+}
+
+
+/* #Sports {
+margin-left: 10%;
+margin-right: 10%;
+align-content: center;
+overflow: hidden;
+}
+#Comedy {
+    margin-left: 20%;
+    margin-right: 20%;
+}    */
+
+/* #Sports {
+    float: left;
+}
+#Comedy {
+    float: right;
+}
+#Fantasy {
+    float:left;
+}
+#Romance {
+    float: right;
+}
+#Isekai {
+    float: left;
+}
+#History {
+    float:right;
+} */
+#title {
+    text-align: center;
+    color: yellow;
+    font-weight: bold;
+    background-image: url(https://th.bing.com/th/id/OIP.ha1ieOEwsARIoH41-MPQ0AHaEo?w=285&h=180&c=7&r=0&o=5&dpr=1.09&pid=1.7);
+    background-size:contain;
+}
+
+h2:hover {
+    cursor:pointer;
+    color: springgreen;
+}
+#SideBar{
+    background-image: url(https://cdn.wallpapersafari.com/32/65/vYN5Xm.jpg);
+    background-size: cover;
+}
+#Romance{
+    background-image: url(https://th.bing.com/th/id/OIP.2xXMIqQKmpigTHpp35-SoQHaEK?w=332&h=186&c=7&r=0&o=5&dpr=1.09&pid=1.7);
+    color: yellow;
+}
+#Isekai{
+    background-image: url(https://th.bing.com/th/id/OIP.Wi0z2KEWRwiA5UM_CiR8MgHaKe?w=128&h=180&c=7&r=0&o=5&dpr=1.09&pid=1.7);
+    color: black;
+    font-weight: bolder;
+}
+#Historical{
+    background-image: url(https://th.bing.com/th/id/OIP.D5Fmpp8typJCBniD0PExWAHaDs?w=333&h=174&c=7&r=0&o=5&dpr=1.09&pid=1.7);
+    color: whitesmoke;
+}
+#Fantasy{
+    background-image: url(https://th.bing.com/th/id/OIP.E2b0PN1cEonKbJkZYXezgQHaEK?w=299&h=180&c=7&r=0&o=5&dpr=1.09&pid=1.7);
+    color: violet;
+}
+#Sports{
+    background-image: url(https://th.bing.com/th/id/OIP.PrVXSWA8_txei6X2JTaJSQHaFl?w=239&h=181&c=7&r=0&o=5&dpr=1.09&pid=1.7);
+    color: turquoise;
+}
+#Comedy{
+    background-image: url(https://th.bing.com/th/id/OIP.ZiDqhH6707VsyAbTBmidqAHaEc?w=295&h=180&c=7&r=0&o=5&dpr=1.09&pid=1.7);
+    color: yellow;
+}
